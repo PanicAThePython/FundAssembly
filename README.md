@@ -1,7 +1,7 @@
 # FundAssembly
   
   * Os números devem ser escritos em hexadecimal e com dois dígitos. Exemplo: ao invés de A, escreva 0A.
-  * Para fazer operações, primeiro copie o valor para A e, depois, guarde em algum outro repositório para não perder o valor.
+  * Para fazer operações, primeiro copie o valor para A(registrador) e, depois de fazer a operação, guarde em algum outro registrador para não perder o valor.
 
 ## Comandos da linguagem ASSEMBLY
 * **MOV:** copia o valor para um registrador da M++(A, B, C, D ou E)
