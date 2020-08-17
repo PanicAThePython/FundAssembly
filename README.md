@@ -30,9 +30,9 @@
     
 * **JMPZ:** pula para um rótulo quando a resposta da subtração for ZERO!
     * Exemplo:
-              MOV 01, A; //copia 01 pra A
-              SUB 01, A; //subtrai 01 de A e guarda em A
-              JMPZ FIM; //se a resposta for zero, pula pra FIM
+        * MOV 01, A; //copia 01 pra A
+        * SUB 01, A; //subtrai 01 de A e guarda em A
+        * JMPZ FIM; //se a resposta for zero, pula pra FIM
 
 * **JMPC:** pula para um rótulo quando a resposta da subtração for NEGATIVA! EXEMPLO: A tem 03 e subtraio 04, vai acender o FLAG C!!
 
