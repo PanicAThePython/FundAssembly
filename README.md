@@ -22,8 +22,8 @@
 * **ADD:** soma valores ao de A e guarde em um registrador da preferência do programador
     * Exemplo: ADD 03, A;
 
-* **INC:** soma 01 no valor de um resgistrador;
-    * Exemplo: INC B;
+* **INC:** soma 01 no valor de A e guarda em um resgistrador;
+    * Exemplo: INC A, A;
     
 * **JMP:** pula para um pedaço do código
     * Exemplo: JMP INICIO; //pula para o rótulo INICIO
