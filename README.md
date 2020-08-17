@@ -1,6 +1,6 @@
 # FundAssembly
   
-  * Os números devem ser escritos em hexadecimal e com dois dígitos. Exemplo: ao invés de A, escreva 0A
+  * Os números devem ser escritos em hexadecimal e com dois dígitos. Exemplo: ao invés de A, escreva 0A.
   * Para fazer operações, primeiro copie o valor para A e, depois, guarde em algum outro repositório para não perder o valor.
 
 ## Comandos da linguagem ASSEMBLY
