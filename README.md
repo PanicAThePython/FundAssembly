@@ -16,6 +16,15 @@
 * **POP:** recupera o valor presenta na pilha (o valor deve ser pego de volta na ordem que foi posto. Exemplo: se guardei o valor de A, e depois B, devo primeiro recuperar B e depois A)
     * Exemplo: POP B; //recupera o valor de B
     
+* **SUB:** subtrai um valor de A e guarda em um registrador da preferência do programador
+    * Exemplo: SUB 03, A;
+    
+* **ADD:** soma valores ao de A e guarde em um registrador da preferência do programador
+    * Exemplo: ADD 03, A;
+
+* **INC:** soma 01 no valor de um resgistrador;
+    * Exemplo: INC B;
+    
 * **JMP:** pula para um pedaço do código
     * Exemplo: JMP INICIO; //pula para o rótulo INICIO
     
