@@ -3,6 +3,7 @@
   
   * Os números devem ser escritos em hexadecimal e com dois dígitos. Exemplo: ao invés de A, escreva 0A.
   * Para fazer operações, primeiro copie o valor para A(registrador) e, depois de fazer a operação, guarde em algum outro registrador para não perder o valor.
+  * É possível escrever mensagems fazendo uso dos códigos presentes na TABELA ASCII.
 
 ## Comandos da linguagem ASSEMBLY
 * **MOV:** copia o valor para um registrador da M++(A, B, C, D ou E)
